@@ -5,7 +5,8 @@ Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, et
 
 
 <p align="center">
-    <img width="25%" height="25%" alt="logo2" src="(https://github.com/user-attachments/assets/f525ce1d-2cfb-49af-b415-604270dd7737" />
+    <img width="25%" height="25%" alt="logo2" src="(![ICON](https://github.com/user-attachments/assets/85c539e8-25bf-4598-bd39-e4ec048152f8)
+" />
 </p>
 
 <h1 align="center"> KZ Store Reader </h1>
