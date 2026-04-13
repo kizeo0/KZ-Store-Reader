@@ -5,7 +5,7 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 
 
 <p align="center">
-    <img width="25%" height="25%" alt="logo2" src="(https://github.com/user-attachments/assets/85c539e8-25bf-4598-bd39-e4ec048152f8)
+    <img width="25%" height="25%" alt="logo2" src="https://github.com/user-attachments/assets/85c539e8-25bf-4598-bd39-e4ec048152f8"
 " />
 </p>
 
