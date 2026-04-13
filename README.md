@@ -26,7 +26,8 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 - 🔍 **Reconocimiento de ID de juego** – Detecta automáticamente el código del juego (BLES, NPUB, etc.) en la descripción.
 
 
-<img width="1270" height="826" alt="image" src="https://github.com/user-attachments/assets/8921d32b-2360-4eca-bcab-43cfe88fa561" />
+<img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/8921d32b-2360-4eca-bcab-43cfe88fa561" />
+
 
 ---
 
