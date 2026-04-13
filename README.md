@@ -47,6 +47,9 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 
 ## 🛠️ Uso básico
 
+<img width="639" height="282" alt="image" src="https://github.com/user-attachments/assets/2a9d0177-2c68-4c6f-b48e-3beff3d48c06" />
+
+
 ### Desde cero
 
 1. Al iniciar, elige una opción:
