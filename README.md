@@ -3,7 +3,14 @@
 **Emulador de Tienda PS3 para PC**  
 Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, etc.) directamente desde tu ordenador. Extrae PKGs, descarga juegos y accede a tu PS3 vía FTP.
 
-![ICON](https://github.com/user-attachments/assets/f525ce1d-2cfb-49af-b415-604270dd7737)
+
+<p align="center">
+    <img width="25%" height="25%" alt="logo2" src="(https://github.com/user-attachments/assets/f525ce1d-2cfb-49af-b415-604270dd7737" />
+</p>
+
+<h1 align="center"> KZ Store Reader </h1>
+<p  align="center">
+</p>
 
 ---
 
