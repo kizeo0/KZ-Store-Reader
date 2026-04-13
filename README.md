@@ -3,7 +3,8 @@
 **Emulador de Tienda PS3 para PC**  
 Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, etc.) directamente desde tu ordenador. Extrae PKGs, descarga juegos y accede a tu PS3 vía FTP.
 
-![Interfaz principal](screenshot.png) <!-- Si tienes captura, pon la ruta -->
+![Interfaz principal](![photo_2026-04-12_20-38-02](https://github.com/user-attachments/assets/d86b4379-b96b-4c26-adda-dc83270d5825)
+) <!-- Si tienes captura, pon la ruta -->
 
 ---
 
@@ -12,7 +13,6 @@ Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, et
 - 📦 **Extracción de PKGs** – Desempaqueta cualquier PKG de tienda PS3 y extrae su estructura XML y recursos.
 - 🏪 **Visor de tiendas** – Carga el XML principal de una tienda y muestra todos sus juegos/ítems con iconos, IDs e información.
 - 🌐 **Bypass de enlaces protegidos** – Resuelve automáticamente enlaces de Mediafire y páginas que requieren User-Agent de PS3.
-- ⬇️ **Descarga optimizada** – Descarga múltiples fragmentos en paralelo (multi‑conexión) para máxima velocidad.
 - 📡 **Cliente FTP integrado** – Conéctate a tu PS3 (webMAN / MultiMAN) para subir/descargar archivos, con arrastrar y soltar.
 - 🧠 **Soporte multidioma** – Español e inglés, con selector en el inicio y persistencia en preferencias.
 - 📁 **Carpeta `data` portátil** – Se crea siempre junto al ejecutable; todas las tiendas extraídas van ahí.
@@ -29,12 +29,6 @@ Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, et
 
 ---
 
-## 📦 Instalación (ejecutable)
-
-1. Descarga el archivo `PS3StoreReader.exe` desde la sección [Releases](https://github.com/tuusuario/KZ-Store-Reader/releases).
-2. Coloca el `.exe` en una carpeta vacía (por ejemplo `C:\KZStore`).
-3. **Opcional:** Si quieres iconos personalizados, añade un `icon.ico` en la misma carpeta.
-4. Ejecuta el programa. La primera vez creará una subcarpeta `data` donde se guardarán las tiendas extraídas.
 
 > ⚠️ **Windows SmartScreen** puede mostrar una advertencia porque el programa no está firmado. Haz clic en "Más información" y luego "Ejecutar de todas formas".
 
@@ -48,7 +42,7 @@ Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, et
    - **Extraer PKG** – Selecciona un archivo `.pkg` de tienda PS3. Se extraerá en `data/`.
    - **Abrir XML** – Carga directamente un archivo `main.xml` de una tienda ya extraída.
    - **Mis Tiendas** – Muestra todas las tiendas que ya tengas en `data/`.
-   - **PSN Database** – Abre en el navegador la base de datos de juegos PSN.
+   - **PSN Database** – Abre en el navegador la base de datos de juegos PSN by Luan Teles.
 
 ### Navegando por la tienda
 
@@ -79,27 +73,15 @@ Lee y navega por las tiendas digitales de PlayStation 3 (ZukoStore, PS3Store, et
 
 ## 🧪 Requisitos del sistema
 
-- **Windows 7 / 8 / 10 / 11** (también funciona en Linux/macOS con Python, pero el .exe es solo Windows)
+- **Windows 7 / 8 / 10 / 11**
 - **Conexión a Internet** (para descargas y resolución de enlaces)
 - **PS3** (solo para FTP, opcional)
 
-Si prefieres ejecutar desde código fuente:
-- Python 3.8+
-- Librerías: `requests`, `Pillow`, `pyinstaller` (solo para empaquetar)
+
 
 ---
 
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT**. Puedes usarlo, modificarlo y compartirlo libremente.
-
----
-
-## 🙌 Créditos
-
-- **KiZeo** – Desarrollo principal.
-- **Luan Teles** – Base de datos PSN.
-- Comunidad PS3 – Por mantener vivo el ecosistema.
+BY KIZEO
 
 ---
 
