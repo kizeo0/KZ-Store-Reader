@@ -140,9 +140,9 @@ class PS3StoreApp:
         self.setup_styles()
         self.create_widgets()
         
-        main_xml = os.path.join(self.base_dir, "VIDEOGAMESSCZ_xmb.xml")
+        main_xml = os.path.join(self.base_dir, "V)
         if os.path.exists(main_xml):
-            self.load_xml(main_xml, "VIDEOGAMESSCZ_xmb_main")
+            self.load_xml(main_xml, "
         else:
             self.open_file()
 
