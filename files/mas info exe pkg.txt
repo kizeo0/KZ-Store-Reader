@@ -1,0 +1,15 @@
+[X] Magic: 7f504b47
+[X] Type: 00000001
+[X] Head size: 00000080
+[X] Item count: 00000003
+[X] Package size: 0000000000000250
+[X] Data offset: 0000000000000140
+[X] Data size: 00000000000000b0
+[X] Content ID: CUSTOM-INSTALLER_00-0000000000000000
+[X] QA_Digest: 7F889EF297491F3A386F1C9D60EBF8
+[X] Package information offset: 000000c0
+
+Presione una tecla para continuar . . .
+
+
+
