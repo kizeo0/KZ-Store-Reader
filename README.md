@@ -25,7 +25,7 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 - 📁 **Carpeta `data` portátil** – Se crea siempre junto al ejecutable; todas las tiendas extraídas van ahí.
 - 🔍 **Reconocimiento de ID de juego** – Detecta automáticamente el código del juego (BLES, NPUB, etc.) en la descripción.
 
-
+<p align="center">
 <img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/8921d32b-2360-4eca-bcab-43cfe88fa561" />
 
 
