@@ -31,10 +31,9 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 - ⬇️ **Descarga de juegos integrada** – Resuelve enlaces protegidos (Mediafire, etc.) y descarga PKGs con barra de progreso, notificaciones y cola de descargas (pausa/reanuda/cancela).
 - 📡 **Cliente FTP completo** – Conéctate a tu PS3 (webMAN / MultiMAN) para explorar archivos, subir, descargar, renombrar, crear carpetas y borrar elementos. Soporta selección múltiple y transferencias en segundo plano con notificaciones.
 - 🌐 **Base de datos PSN** – Acceso directo a la PSN Database de Luan Teles desde el menú.
-- 🧠 **Modo offline** – Una vez extraída una tienda, puedes usarla sin conexión a Internet.
 - 🔄 **Actualizaciones automáticas** – Comprueba si hay nuevas versiones en GitHub y te redirige para descargarlas.
 - 🌍 **Multidioma** – Español e inglés, con cambio dinámico sin reiniciar la app.
-- 🎨 **Diseño oscuro** – Interfaz limpia y amigable para largas sesiones de uso.
+- 🎨 **Diseño oscuro** – Interfaz limpia 
 
 <p align="center">
 <img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/8921d32b-2360-4eca-bcab-43cfe88fa561" />
