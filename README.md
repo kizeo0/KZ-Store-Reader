@@ -94,7 +94,7 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 
 ### Versión Android
 
-<img width="685" height="1280" alt="image" src="https://github.com/user-attachments/assets/3f8eeaec-b4a6-45e9-b7ee-8ba5b5d8eb69" />
+<img width="342" height="640" alt="image" src="https://github.com/user-attachments/assets/3f8eeaec-b4a6-45e9-b7ee-8ba5b5d8eb69" />
 
 
 #### Instalación
@@ -123,7 +123,7 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
    - **Cancelar transferencia**: Durante la subida/descarga, aparece un diálogo con barra de progreso y botón **Cancelar**. También puedes cancelar desde la notificación.
    - **Navegación**: Pulsa en una carpeta para entrar, usa el elemento `..` para subir al directorio padre.
 
-<img width="642" height="1279" alt="image" src="https://github.com/user-attachments/assets/2771ea29-6687-4f34-a9f9-4c1641433721" />
+<img width="342" height="639" alt="image" src="https://github.com/user-attachments/assets/2771ea29-6687-4f34-a9f9-4c1641433721" />
 
 
 ---
