@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ftpRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0D0D0D"
+    android:fitsSystemWindows="true">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#1A1A1A"
+        app:titleTextColor="#FFFFFF"
+        app:subtitleTextColor="#AAAAAA">
+
+        <View
+            android:id="@+id/ledStatus"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/led_red" />
+
+        <!-- Icono de transferencia activa (oculto por defecto) -->
+        <TextView
+            android:id="@+id/btnTransferIcon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="end|center_vertical"
+            android:text="📥"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:visibility="gone"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:layout_marginEnd="8dp"
+            android:contentDescription="Transferencias activas" />
+
+        <!-- Botón de actualizar -->
+        <TextView
+            android:id="@+id/btnRefresh"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="end|center_vertical"
+            android:text="🔄"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Actualizar" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- Barra de conexión compacta -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="#111111"
+        android:padding="6dp"
+        android:weightSum="4">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1.5"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginEnd="4dp">
+            <TextView
+                android:id="@+id/tvIpLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="IP:"
+                android:textColor="#AAAAAA"
+                android:textSize="11sp"/>
+            <EditText
+                android:id="@+id/etFtpHost"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:hint="192.168.1.100"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#444444"
+                android:background="@drawable/bg_input_dark"
+                android:paddingHorizontal="6dp"
+                android:inputType="text"
+                android:fontFamily="monospace"
+                android:textSize="11sp"
+                android:layout_marginStart="4dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginEnd="4dp">
+            <TextView
+                android:id="@+id/tvPortLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Port:"
+                android:textColor="#AAAAAA"
+                android:textSize="11sp"/>
+            <EditText
+                android:id="@+id/etFtpPort"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:hint="21"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#444444"
+                android:background="@drawable/bg_input_dark"
+                android:paddingHorizontal="6dp"
+                android:inputType="number"
+                android:fontFamily="monospace"
+                android:textSize="11sp"
+                android:layout_marginStart="4dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1.5"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <Button
+                android:id="@+id/btnFtpConnect"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:text="Conectar"
+                android:backgroundTint="#2979FF"
+                android:textColor="#FFFFFF"
+                android:textSize="11sp"
+                android:textAllCaps="false"
+                android:layout_marginEnd="6dp"
+                android:minWidth="0dp"
+                android:singleLine="true"
+                android:ellipsize="end"/>
+
+            <TextView
+                android:id="@+id/btnCredMenu"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:text="⋮"
+                android:textSize="18sp"
+                android:textColor="#AAAAAA"
+                android:gravity="center"
+                android:background="?attr/selectableItemBackgroundBorderless"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Panel superior: PS3 REMOTO -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#0F0F0F">
+
+        <TextView
+            android:id="@+id/tvRemoteLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🎮  PS3 — Remoto"
+            android:textColor="#76FF03"
+            android:textStyle="bold"
+            android:textSize="11sp"
+            android:background="#1E1E1E"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="5dp"/>
+
+        <TextView
+            android:id="@+id/tvRemotePath"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="/"
+            android:textColor="#555555"
+            android:textSize="9sp"
+            android:fontFamily="monospace"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="2dp"
+            android:singleLine="true"
+            android:ellipsize="start"
+            android:background="#111111"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvRemoteFiles"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#0F0F0F"/>
+    </LinearLayout>
+
+    <!-- Barra de acciones central: Enviar y Recibir — compactos -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#080808"
+        android:paddingVertical="5dp"
+        android:paddingHorizontal="16dp"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/btnUpload"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="8dp"
+            android:text="↑ Enviar"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:backgroundTint="#1A3A5C"
+            android:textColor="#FFFFFF"/>
+
+        <Button
+            android:id="@+id/btnDownload"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="8dp"
+            android:text="↓ Recibir"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:backgroundTint="#1A5C3A"
+            android:textColor="#FFFFFF"/>
+
+    </LinearLayout>
+
+    <!-- Panel inferior: PC LOCAL -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="#0F0F0F">
+
+        <TextView
+            android:id="@+id/tvLocalLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📱  Android — Local"
+            android:textColor="#76FF03"
+            android:textStyle="bold"
+            android:textSize="11sp"
+            android:background="#1E1E1E"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="5dp"/>
+
+        <TextView
+            android:id="@+id/tvLocalPath"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#555555"
+            android:textSize="9sp"
+            android:fontFamily="monospace"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="2dp"
+            android:singleLine="true"
+            android:ellipsize="start"
+            android:background="#111111"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvLocalFiles"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#0F0F0F"/>
+    </LinearLayout>
+
+    <!-- Log FTP -->
+    <ScrollView
+        android:id="@+id/ftpLogScroll"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#050505">
+        <TextView
+            android:id="@+id/tvFtpLog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#777777"
+            android:textSize="9sp"
+            android:fontFamily="monospace"
+            android:padding="5dp"/>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#1E1E1E"
+        android:pathData="M0,0 L56,0 L56,56 L0,56 Z"/>
+
+    <!-- PS3 disc icon shape -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M28,12 A16,16 0 1,1 27.99,12 Z"/>
+
+    <path
+        android:fillColor="#1E1E1E"
+        android:pathData="M28,20 A8,8 0 1,1 27.99,20 Z"/>
+
+    <!-- Small label lines -->
+    <path
+        android:fillColor="#444444"
+        android:strokeColor="#444444"
+        android:strokeWidth="1.5"
+        android:pathData="M14,42 L42,42"/>
+
+    <path
+        android:fillColor="#333333"
+        android:strokeColor="#333333"
+        android:strokeWidth="1.5"
+        android:pathData="M18,46 L38,46"/>
+
+</vector>

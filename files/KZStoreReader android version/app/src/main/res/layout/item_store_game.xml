@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="72dp"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="#141414"
+    android:paddingHorizontal="12dp"
+    android:paddingVertical="6dp">
+
+    <!-- Category indicator stripe -->
+    <View
+        android:id="@+id/vCategoryIndicator"
+        android:layout_width="3dp"
+        android:layout_height="match_parent"
+        android:background="#2979FF"
+        android:layout_marginEnd="8dp"
+        android:visibility="gone"/>
+
+    <!-- Icon -->
+    <ImageView
+        android:id="@+id/ivGameIcon"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:scaleType="centerCrop"
+        android:background="#1E1E1E"
+        android:src="@drawable/ic_ps3_game_placeholder"/>
+
+    <!-- Text info -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="8dp">
+
+        <TextView
+            android:id="@+id/tvGameTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:maxLines="2"
+            android:ellipsize="end"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="3dp">
+
+            <TextView
+                android:id="@+id/tvGameId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#76FF03"
+                android:textSize="11sp"
+                android:fontFamily="monospace"
+                android:layout_marginEnd="8dp"/>
+
+            <TextView
+                android:id="@+id/tvGameInfo"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="#888888"
+                android:textSize="11sp"
+                android:maxLines="1"
+                android:ellipsize="end"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Size -->
+    <TextView
+        android:id="@+id/tvGameSize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#555555"
+        android:textSize="11sp"
+        android:fontFamily="monospace"/>
+
+</LinearLayout>

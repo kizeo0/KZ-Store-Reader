@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_ftp"
+        android:title="📡 FTP"
+        android:icon="@drawable/ic_ftp"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_psn"
+        android:title="🌐 PSN DB"
+        app:showAsAction="never"/>
+
+</menu>

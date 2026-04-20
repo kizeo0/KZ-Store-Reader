@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kizeo.kzstorereader">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="29"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KZStoreReader"
+        android:usesCleartextTraffic="true"
+        android:networkSecurityConfig="@xml/network_security_config">
+
+        <!-- Activities -->
+        <activity
+            android:name=".activities.MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.StoreViewerActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize"
+            android:parentActivityName=".activities.MainActivity"/>
+        <activity
+            android:name=".activities.StoreListActivity"
+            android:exported="false"
+            android:parentActivityName=".activities.MainActivity"/>
+        <activity
+            android:name=".activities.PkgExtractActivity"
+            android:exported="false"
+            android:parentActivityName=".activities.MainActivity"/>
+        <activity
+            android:name=".activities.FtpActivity"
+            android:exported="false"
+            android:parentActivityName=".activities.MainActivity"/>
+
+        <!-- Servicios de descarga/FTP en segundo plano -->
+        <service
+            android:name=".utils.DownloadService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync"/>
+        <service
+            android:name=".utils.FtpService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync"/>
+
+        <!--
+            FIX: exported="true" es OBLIGATORIO para que un PendingIntent desde
+            una notificación del sistema pueda disparar este receiver.
+            Sin esto el botón "Cancelar" de la notificación no hace nada en Android 12+.
+        -->
+        <receiver
+            android:name=".activities.CancelTransferReceiver"
+            android:exported="true"/>
+
+    </application>
+</manifest>

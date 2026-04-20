@@ -1,0 +1,1643 @@
+[DIRECTORIO RAÍZ] 
+   [Archivo] .gitignore 
+   [Archivo] build.gradle.kts 
+   [Archivo] gradle.properties 
+   [Archivo] gradlew 
+   [Archivo] gradlew.bat 
+   [Archivo] local.properties 
+   [Archivo] README.md 
+   [Archivo] settings.gradle.kts 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle 
+   -- file-system.probe 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.idea 
+   -- .gitignore 
+   -- AndroidProjectSystem.xml 
+   -- assetWizardSettings.xml 
+   -- compiler.xml 
+   -- deploymentTargetSelector.xml 
+   -- gradle.xml 
+   -- misc.xml 
+   -- modules.xml 
+   -- runConfigurations.xml 
+   -- workspace.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app 
+   -- .gitignore 
+   -- build.gradle.kts 
+   -- proguard-rules.pro 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\build 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\gradle 
+   -- gradle-daemon-jvm.properties 
+   -- libs.versions.toml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1 
+   -- gc.properties 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\buildOutputCleanup 
+   -- buildOutputCleanup.lock 
+   -- cache.properties 
+   -- outputFiles.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\vcs-1 
+   -- gc.properties 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1\checksums 
+   -- checksums.lock 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1\executionHistory 
+   -- executionHistory.bin 
+   -- executionHistory.lock 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1\expanded 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1\fileChanges 
+   -- last-build.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1\fileHashes 
+   -- fileHashes.bin 
+   -- fileHashes.lock 
+   -- resourceHashesCache.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.gradle\9.3.1\vcsMetadata 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.idea\caches 
+   -- deviceStreaming.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.idea\modules 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\.idea\modules\app 
+   -- KZStoreReader.app.main.iml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\outputs 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\tmp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\ap_generated_sources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\ap_generated_sources\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\ap_generated_sources\debug\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res\pngs 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res\resValues 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res\pngs\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res\resValues\androidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res\resValues\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\generated\res\resValues\androidTest\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\aar_metadata_check 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\apk_ide_redirect_file 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\app_metadata 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\assets 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compatible_screen_manifest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_app_classes_jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_package 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_archive_input_jar_hashes 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_number_of_buckets_file 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\duplicate_classes_check 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_file_lib_dex_archives 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\linked_resources_binary_format 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\local_only_symbol_list 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\manifest_merge_blame_file 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_java_res 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_manifest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_manifests 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\navigation_json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\nested_resources_validation_report 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_manifests 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\runtime_symbol_list 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\signing_config_versions 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\source_set_path_map 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\stable_resource_ids_file 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\symbol_list_with_package_name 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\tmp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\validate_signing_config 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\aar_metadata_check\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\aar_metadata_check\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\aar_metadata_check\debug\checkDebugAarMetadata 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\aar_metadata_check\debugAndroidTest\checkDebugAndroidTestAarMetadata 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list\debugUnitTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list\debug\javaPreCompileDebug 
+   -- annotationProcessors.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list\debugAndroidTest\javaPreCompileDebugAndroidTest 
+   -- annotationProcessors.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\annotation_processor_list\debugUnitTest\javaPreCompileDebugUnitTest 
+   -- annotationProcessors.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\apk_ide_redirect_file\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\apk_ide_redirect_file\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\apk_ide_redirect_file\debug\createDebugApkListingFileRedirect 
+   -- redirect.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\apk_ide_redirect_file\debugAndroidTest\createDebugAndroidTestApkListingFileRedirect 
+   -- redirect.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\app_metadata\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\app_metadata\debug\writeDebugAppMetadata 
+   -- app-metadata.properties 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\assets\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\assets\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\assets\debug\mergeDebugAssets 
+   -- mainlogo.png 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\assets\debugAndroidTest\mergeDebugAndroidTestAssets 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compatible_screen_manifest\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compatible_screen_manifest\debug\createDebugCompatibleScreenManifests 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug\processDebugResources 
+   -- R.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debugAndroidTest\processDebugAndroidTestResources 
+   -- R.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_app_classes_jar\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compile_app_classes_jar\debug\bundleDebugClassesToCompileJar 
+   -- classes.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debug\compressDebugAssets 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out\assets 
+   -- mainlogo.png.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debugAndroidTest\compressDebugAndroidTestAssets 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\compressed_assets\debugAndroidTest\compressDebugAndroidTestAssets\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge\debug\mergeDebugResources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge\debug\mergeDebugResources\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge\debugAndroidTest\mergeDebugAndroidTestResources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_merge\debugAndroidTest\mergeDebugAndroidTestResources\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_package\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_package\debug\packageDebugResources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\data_binding_layout_info_type_package\debug\packageDebugResources\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\externalLibs 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\mixedScopes 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\otherProjects 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_0 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_1 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_2 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_3 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_4 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_5 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_3cfaaa9b990594cd52629abc866df5b7b68a09872421d9ebbdc40250819b82df_bucket_0 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_3cfaaa9b990594cd52629abc866df5b7b68a09872421d9ebbdc40250819b82df_bucket_1 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_3cfaaa9b990594cd52629abc866df5b7b68a09872421d9ebbdc40250819b82df_bucket_2 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_3cfaaa9b990594cd52629abc866df5b7b68a09872421d9ebbdc40250819b82df_bucket_3 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_3cfaaa9b990594cd52629abc866df5b7b68a09872421d9ebbdc40250819b82df_bucket_4 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_3cfaaa9b990594cd52629abc866df5b7b68a09872421d9ebbdc40250819b82df_bucket_5 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\externalLibs 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\mixedScopes 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\otherProjects 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject\jar_1d956a5eed1fe88b5243d07d9bbe62c4ce495a468e6f69bf00f793ec5e06e6f6_bucket_0 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject\jar_1d956a5eed1fe88b5243d07d9bbe62c4ce495a468e6f69bf00f793ec5e06e6f6_bucket_1 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject\jar_1d956a5eed1fe88b5243d07d9bbe62c4ce495a468e6f69bf00f793ec5e06e6f6_bucket_2 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject\jar_1d956a5eed1fe88b5243d07d9bbe62c4ce495a468e6f69bf00f793ec5e06e6f6_bucket_3 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject\jar_1d956a5eed1fe88b5243d07d9bbe62c4ce495a468e6f69bf00f793ec5e06e6f6_bucket_4 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\desugar_graph\debugAndroidTest\dexBuilderDebugAndroidTest\out\currentProject\jar_1d956a5eed1fe88b5243d07d9bbe62c4ce495a468e6f69bf00f793ec5e06e6f6_bucket_5 
+   -- graph.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeExtDexDebug 
+   -- classes.dex 
+   -- classes2.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\0 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\1 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\10 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\11 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\12 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\13 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\14 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\15 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\2 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\3 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\4 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\5 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\6 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\7 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\8 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeLibDexDebug\9 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\0 
+   -- classes.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\1 
+   -- classes.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\10 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\11 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\12 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\13 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\14 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\15 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\2 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\3 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\4 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\5 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\6 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\7 
+   -- classes.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\8 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debug\mergeProjectDexDebug\9 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeExtDexDebugAndroidTest 
+   -- classes.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\0 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\1 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\10 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\11 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\12 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\13 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\14 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\15 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\2 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\3 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\4 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\5 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\6 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\7 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\8 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeLibDexDebugAndroidTest\9 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\0 
+   -- classes.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\1 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\10 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\11 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\12 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\13 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\14 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\15 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\2 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\3 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\4 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\5 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\6 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\7 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\8 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex\debugAndroidTest\mergeProjectDexDebugAndroidTest\9 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_archive_input_jar_hashes\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_archive_input_jar_hashes\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_archive_input_jar_hashes\debug\dexBuilderDebug 
+   -- out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_archive_input_jar_hashes\debugAndroidTest\dexBuilderDebugAndroidTest 
+   -- out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_number_of_buckets_file\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_number_of_buckets_file\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_number_of_buckets_file\debug\dexBuilderDebug 
+   -- out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\dex_number_of_buckets_file\debugAndroidTest\dexBuilderDebugAndroidTest 
+   -- out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\duplicate_classes_check\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\duplicate_classes_check\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\duplicate_classes_check\debug\checkDebugDuplicateClasses 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\duplicate_classes_check\debugAndroidTest\checkDebugAndroidTestDuplicateClasses 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_file_lib_dex_archives\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_file_lib_dex_archives\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_file_lib_dex_archives\debug\desugarDebugFileDependencies 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_file_lib_dex_archives\debugAndroidTest\desugarDebugAndroidTestFileDependencies 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive\debug\dexBuilderDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive\debug\dexBuilderDebug\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug\dexBuilderDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug\dexBuilderDebug\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debugAndroidTest\dexBuilderDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debugAndroidTest\dexBuilderDebugAndroidTest\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug-mergeJavaRes 
+   -- merge-state 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest-mergeJavaRes 
+   -- merge-state 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\mergeDebugAndroidTestAssets 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\mergeDebugAndroidTestJniLibFolders 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\mergeDebugAndroidTestShaders 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\mergeDebugAssets 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\mergeDebugJniLibFolders 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\mergeDebugShaders 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug\mergeDebugResources 
+   -- compile-file-map.properties 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug\packageDebugResources 
+   -- compile-file-map.properties 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debug-mergeJavaRes\zip-cache 
+   -- +UOvP3BTmlZIlu1IYyGycXBNLA0= 
+   -- 1tsr+h93Qp2uQmQeo0C_g3MGIV8= 
+   -- 216sXOKYJH6V6+t2kFBAMNMeKyY= 
+   -- 27h6Er4AXYh6Q8_JTERloHZPA4E= 
+   -- 29e1ppVFAqvGd2x7_aIDXoK4xeY= 
+   -- 3i0dkH85zrpIu9CfE3SSJwKO96M= 
+   -- 7m6l_J1_lyChEs3lIo5AV9T2cg0= 
+   -- 7O5SpzNKt1JNUVK8cQ7M7Mlpjac= 
+   -- 7wnvJu1kzzLjfIZwlMWowsU712A= 
+   -- Ac+RDmcZasvsZU54R6idadgvE0Y= 
+   -- aFWju5HUyUaSNJETs+_Ar1S9qYo= 
+   -- akKPDmxejJsZdMZtPV3gBIwaGNQ= 
+   -- B6j9y97bL_uCJpnHjVfxoYXZ30I= 
+   -- BUsFhqA+jHRnAbzuMbuY_KuaVnI= 
+   -- c15ErCwtuLSr1W3rhcRfstVE8qo= 
+   -- CjOKhUCh_zygn6sJrQ8L8z0HUgs= 
+   -- cqBtIIojl6oHCw4q2AuNIKpvzxA= 
+   -- dIH9bz7y+zPbbvVXTkA_XSB1y8Q= 
+   -- Dro4GFqjFLNSthnHnnYG8qIKurA= 
+   -- e8wJHgCL_QY5bcvwuoqXW5ipr+s= 
+   -- EkBufzXllxrynO5P4MbOii2c2fw= 
+   -- emTrvyICX217Fr_3RBE01s0Yq_I= 
+   -- f7Kg+SQ+2Il0zFS2Prbt7hHdIEo= 
+   -- gJKn2r5MRI6J37gmqxQ1HleBtnw= 
+   -- g_092fjf2EXfIuh3pwcFlP9aKNA= 
+   -- hD4DOM6vtitCQwoSHk3BmnT2nt4= 
+   -- Hy8b7ro7oHebL+jELvFFdWooE7c= 
+   -- Hy8LwWiQR8ofHVV5Zc4s2grJoEk= 
+   -- i6d5ig93T1ekpqXlAgY56_yulEI= 
+   -- K+rPDvYGMy82ksjB3Arc7ho_esU= 
+   -- kFcEYlEkf4Mj2uARTMG+RzUprmM= 
+   -- KhTxMidB6QNVuk3+mdVIgB3s57Q= 
+   -- KLrBYy98qmVRxUQifqQzwlsRkyk= 
+   -- kWO03gdXyckCdflGRqTMVq94HL8= 
+   -- MKFY3ro7sBekSzo4KzeaGqXTDog= 
+   -- mMGISRt0VTOgQnS1hdBiT9Rj9ic= 
+   -- Nl65r4ueIYFPc5GPjjSL8zZ4Kh0= 
+   -- nQEBfMNXLO1kK0IfI1Q4qqWZYYU= 
+   -- NXkh5y2duvTecvEQRO6J8ZpkrCQ= 
+   -- Px2RCjO6tpw7tPX5X9IrUW67gbg= 
+   -- qmQ9voW3V46wy7r4A3Wkd+PsNTA= 
+   -- r91UFR1z15Sbs5ZpQbGCDYPGHCg= 
+   -- t1iHqVSSg5zV5FRl7qobFmlue9g= 
+   -- TDSC1dl12YFAHvCJj8LiD+7d5cs= 
+   -- Tl8HiJ0mCh5aJWsxFJN3dRNyYlY= 
+   -- uKFsN0etNwmVBE4pnhyFVPg+HZo= 
+   -- uUiKXMpLRXb204aZZUNegZkXZ1w= 
+   -- V+dtwGyutWdI9Ebg2WAPJDkVr6U= 
+   -- vFtk8flZRrjbFIGDJpq6YZOTXzk= 
+   -- vHA2B8FbDtnk3MjCuEH3WJrFA7w= 
+   -- vn2H8ZTWVVvkb_t3ep9TXdKnCIc= 
+   -- WQpnwXvqESmQ96HptofU7_lLP5o= 
+   -- wVfIrRSc1zIOB+0l35y0C+aFUCU= 
+   -- yJbORcJGESlrZKfNNb5+w_OXYfQ= 
+   -- Yq3X1UUv_ZwswPcNOplQpU0paAM= 
+   -- ZCrQY4MWT15lN09+XIA96plkKbc= 
+   -- zGSLTQRmAK3Y+JJf6epqxbYlsPk= 
+   -- ZlL+kzbya2ephsHwg6B0Z8XTW_Y= 
+   -- _0wLeIzVjbiEJo7f28oUhHldTsA= 
+   -- _goc7DsYgX3gN83cWzJULpwL4L0= 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources 
+   -- compile-file-map.properties 
+   -- merger.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir\values 
+   -- values.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir\values-v18 
+   -- values-v18.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir\values-v21 
+   -- values-v21.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir\values-v28 
+   -- values-v28.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\debugAndroidTest-mergeJavaRes\zip-cache 
+   -- 2x9amB_SeIU5rgFdt53PxaovSxE= 
+   -- 4MF6bJsfCAhgC9ajUPSg27cpmJw= 
+   -- AMQs_aAqD4_tkSu2GAvpE0nAcmk= 
+   -- GdGNTev0sexjhHb39p9K6vne4iw= 
+   -- hAWCJWDS7XjHfAV3oBp8RnbJqTg= 
+   -- Ib+qcidfDf2U2EKCBuWqo1TpsB0= 
+   -- MrCBGZ2ey_OzHdWEPgUPxUkrtm8= 
+   -- N2ovf8TBnr574MtpApALBGwVDFg= 
+   -- rAUHlYW3pacjmrSk0leRtlksmCY= 
+   -- xATGbQ85220lsb9AdhKbzZSARrU= 
+   -- xCiQdnQ0xJjOZRJjHPPPczUAYMA= 
+   -- xHrll3Hrq5XFODNI3ZVyIvIp_Gs= 
+   -- zsbnVX3zNdJ8Yhd3Ze0tQmDUVdY= 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebug\tmp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebug\tmp\debug 
+   -- dex-renamer-state.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebug\tmp\debug\zip-cache 
+   -- androidResources 
+   -- javaResources0 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebugAndroidTest\tmp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebugAndroidTest\tmp\debugAndroidTest 
+   -- dex-renamer-state.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\incremental\packageDebugAndroidTest\tmp\debugAndroidTest\zip-cache 
+   -- androidResources 
+   -- javaResources0 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\kizeo 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\kizeo\kzstorereader 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\kizeo\kzstorereader\activities 
+   -- CancelTransferReceiver.class 
+   -- FtpActivity$FileAdapter$ViewHolder.class 
+   -- FtpActivity$FileAdapter.class 
+   -- FtpActivity$TransferTask.class 
+   -- FtpActivity.class 
+   -- MainActivity.class 
+   -- PkgExtractActivity$1.class 
+   -- PkgExtractActivity.class 
+   -- StoreListActivity$StoresAdapter$VH.class 
+   -- StoreListActivity$StoresAdapter.class 
+   -- StoreListActivity.class 
+   -- StoreViewerActivity$1.class 
+   -- StoreViewerActivity$NavEntry.class 
+   -- StoreViewerActivity$OnItemClick.class 
+   -- StoreViewerActivity$OnItemLongClick.class 
+   -- StoreViewerActivity$StoreItemAdapter$VH.class 
+   -- StoreViewerActivity$StoreItemAdapter.class 
+   -- StoreViewerActivity.class 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\kizeo\kzstorereader\utils 
+   -- DownloadManager$1.class 
+   -- DownloadManager.class 
+   -- DownloadService$Callback.class 
+   -- DownloadService$CallbackAction.class 
+   -- DownloadService.class 
+   -- FtpService$1.class 
+   -- FtpService$2.class 
+   -- FtpService$Callback.class 
+   -- FtpService$CallbackAction.class 
+   -- FtpService.class 
+   -- PkgExtractor$ExtractResult.class 
+   -- PkgExtractor$PkgEntry.class 
+   -- PkgExtractor$ProgressCallback.class 
+   -- PkgExtractor.class 
+   -- StoreScanner$StoreEntry.class 
+   -- StoreScanner.class 
+   -- StoreXmlParser$ParseResult.class 
+   -- StoreXmlParser$StoreItem.class 
+   -- StoreXmlParser$XmlFormat.class 
+   -- StoreXmlParser.class 
+   -- UrlResolver.class 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\linked_resources_binary_format\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\linked_resources_binary_format\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\linked_resources_binary_format\debug\processDebugResources 
+   -- linked-resources-binary-format-debug.ap_ 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\linked_resources_binary_format\debugAndroidTest\processDebugAndroidTestResources 
+   -- linked-resources-binary-format.ap_ 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\local_only_symbol_list\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\local_only_symbol_list\debug\parseDebugLocalResources 
+   -- R-def.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\manifest_merge_blame_file\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\manifest_merge_blame_file\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\manifest_merge_blame_file\debug\processDebugMainManifest 
+   -- manifest-merger-blame-debug-report.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\manifest_merge_blame_file\debugAndroidTest\processDebugAndroidTestManifest 
+   -- manifest-merger-blame-debug-androidTest-report.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_java_res\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_java_res\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_java_res\debug\mergeDebugJavaResource 
+   -- base.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_java_res\debugAndroidTest\mergeDebugAndroidTestJavaResource 
+   -- feature-app.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs\debug\mergeDebugJniLibFolders 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs\debug\mergeDebugJniLibFolders\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs\debugAndroidTest\mergeDebugAndroidTestJniLibFolders 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_jni_libs\debugAndroidTest\mergeDebugAndroidTestJniLibFolders\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_manifest\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_manifest\debug\processDebugMainManifest 
+   -- AndroidManifest.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_manifests\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_manifests\debug\processDebugManifest 
+   -- AndroidManifest.xml 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res\debug\mergeDebugResources 
+   -- drawable_bg_input_dark.xml.flat 
+   -- drawable_ic_ftp.xml.flat 
+   -- drawable_ic_launcher_background.xml.flat 
+   -- drawable_ic_launcher_foreground.xml.flat 
+   -- drawable_ic_ps3_game_placeholder.xml.flat 
+   -- drawable_led_green.xml.flat 
+   -- drawable_led_red.xml.flat 
+   -- layout_activity_ftp.xml.flat 
+   -- layout_activity_main.xml.flat 
+   -- layout_activity_pkg_extract.xml.flat 
+   -- layout_activity_store_list.xml.flat 
+   -- layout_activity_store_viewer.xml.flat 
+   -- layout_dialog_ftp_credentials.xml.flat 
+   -- layout_dialog_transfer_progress.xml.flat 
+   -- layout_item_download_task.xml.flat 
+   -- layout_item_ftp_file.xml.flat 
+   -- layout_item_store_entry.xml.flat 
+   -- layout_item_store_game.xml.flat 
+   -- menu_main_menu.xml.flat 
+   -- menu_store_viewer_menu.xml.flat 
+   -- mipmap-anydpi-v26_ic_launcher.xml.flat 
+   -- mipmap-anydpi-v26_ic_launcher_round.xml.flat 
+   -- mipmap-hdpi_ic_launcher.webp.flat 
+   -- mipmap-hdpi_ic_launcher_foreground.webp.flat 
+   -- mipmap-hdpi_ic_launcher_round.webp.flat 
+   -- mipmap-mdpi_ic_launcher.webp.flat 
+   -- mipmap-mdpi_ic_launcher_foreground.webp.flat 
+   -- mipmap-mdpi_ic_launcher_round.webp.flat 
+   -- mipmap-xhdpi_ic_launcher.webp.flat 
+   -- mipmap-xhdpi_ic_launcher_foreground.webp.flat 
+   -- mipmap-xhdpi_ic_launcher_round.webp.flat 
+   -- mipmap-xxhdpi_ic_launcher.webp.flat 
+   -- mipmap-xxhdpi_ic_launcher_foreground.webp.flat 
+   -- mipmap-xxhdpi_ic_launcher_round.webp.flat 
+   -- mipmap-xxxhdpi_ic_launcher.webp.flat 
+   -- mipmap-xxxhdpi_ic_launcher_foreground.webp.flat 
+   -- mipmap-xxxhdpi_ic_launcher_round.webp.flat 
+   -- values-af_values-af.arsc.flat 
+   -- values-am_values-am.arsc.flat 
+   -- values-ar_values-ar.arsc.flat 
+   -- values-as_values-as.arsc.flat 
+   -- values-az_values-az.arsc.flat 
+   -- values-b+es+419_values-b+es+419.arsc.flat 
+   -- values-b+sr+Latn_values-b+sr+Latn.arsc.flat 
+   -- values-be_values-be.arsc.flat 
+   -- values-bg_values-bg.arsc.flat 
+   -- values-bn_values-bn.arsc.flat 
+   -- values-bs_values-bs.arsc.flat 
+   -- values-ca_values-ca.arsc.flat 
+   -- values-cs_values-cs.arsc.flat 
+   -- values-da_values-da.arsc.flat 
+   -- values-de_values-de.arsc.flat 
+   -- values-el_values-el.arsc.flat 
+   -- values-en-rAU_values-en-rAU.arsc.flat 
+   -- values-en-rCA_values-en-rCA.arsc.flat 
+   -- values-en-rGB_values-en-rGB.arsc.flat 
+   -- values-en-rIN_values-en-rIN.arsc.flat 
+   -- values-en-rXC_values-en-rXC.arsc.flat 
+   -- values-es-rUS_values-es-rUS.arsc.flat 
+   -- values-es_values-es.arsc.flat 
+   -- values-et_values-et.arsc.flat 
+   -- values-eu_values-eu.arsc.flat 
+   -- values-fa_values-fa.arsc.flat 
+   -- values-fi_values-fi.arsc.flat 
+   -- values-fr-rCA_values-fr-rCA.arsc.flat 
+   -- values-fr_values-fr.arsc.flat 
+   -- values-gl_values-gl.arsc.flat 
+   -- values-gu_values-gu.arsc.flat 
+   -- values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat 
+   -- values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat 
+   -- values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat 
+   -- values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat 
+   -- values-h720dp-v13_values-h720dp-v13.arsc.flat 
+   -- values-hdpi-v4_values-hdpi-v4.arsc.flat 
+   -- values-hi_values-hi.arsc.flat 
+   -- values-hr_values-hr.arsc.flat 
+   -- values-hu_values-hu.arsc.flat 
+   -- values-hy_values-hy.arsc.flat 
+   -- values-in_values-in.arsc.flat 
+   -- values-is_values-is.arsc.flat 
+   -- values-it_values-it.arsc.flat 
+   -- values-iw_values-iw.arsc.flat 
+   -- values-ja_values-ja.arsc.flat 
+   -- values-ka_values-ka.arsc.flat 
+   -- values-kk_values-kk.arsc.flat 
+   -- values-km_values-km.arsc.flat 
+   -- values-kn_values-kn.arsc.flat 
+   -- values-ko_values-ko.arsc.flat 
+   -- values-ky_values-ky.arsc.flat 
+   -- values-land_values-land.arsc.flat 
+   -- values-large-v4_values-large-v4.arsc.flat 
+   -- values-ldltr-v21_values-ldltr-v21.arsc.flat 
+   -- values-ldrtl-v17_values-ldrtl-v17.arsc.flat 
+   -- values-lo_values-lo.arsc.flat 
+   -- values-lt_values-lt.arsc.flat 
+   -- values-lv_values-lv.arsc.flat 
+   -- values-mk_values-mk.arsc.flat 
+   -- values-ml_values-ml.arsc.flat 
+   -- values-mn_values-mn.arsc.flat 
+   -- values-mr_values-mr.arsc.flat 
+   -- values-ms_values-ms.arsc.flat 
+   -- values-my_values-my.arsc.flat 
+   -- values-nb_values-nb.arsc.flat 
+   -- values-ne_values-ne.arsc.flat 
+   -- values-night-v8_values-night-v8.arsc.flat 
+   -- values-nl_values-nl.arsc.flat 
+   -- values-or_values-or.arsc.flat 
+   -- values-pa_values-pa.arsc.flat 
+   -- values-pl_values-pl.arsc.flat 
+   -- values-port_values-port.arsc.flat 
+   -- values-pt-rBR_values-pt-rBR.arsc.flat 
+   -- values-pt-rPT_values-pt-rPT.arsc.flat 
+   -- values-pt_values-pt.arsc.flat 
+   -- values-ro_values-ro.arsc.flat 
+   -- values-ru_values-ru.arsc.flat 
+   -- values-si_values-si.arsc.flat 
+   -- values-sk_values-sk.arsc.flat 
+   -- values-sl_values-sl.arsc.flat 
+   -- values-small-v4_values-small-v4.arsc.flat 
+   -- values-sq_values-sq.arsc.flat 
+   -- values-sr_values-sr.arsc.flat 
+   -- values-sv_values-sv.arsc.flat 
+   -- values-sw600dp-v13_values-sw600dp-v13.arsc.flat 
+   -- values-sw_values-sw.arsc.flat 
+   -- values-ta_values-ta.arsc.flat 
+   -- values-te_values-te.arsc.flat 
+   -- values-th_values-th.arsc.flat 
+   -- values-tl_values-tl.arsc.flat 
+   -- values-tr_values-tr.arsc.flat 
+   -- values-uk_values-uk.arsc.flat 
+   -- values-ur_values-ur.arsc.flat 
+   -- values-uz_values-uz.arsc.flat 
+   -- values-v16_values-v16.arsc.flat 
+   -- values-v17_values-v17.arsc.flat 
+   -- values-v18_values-v18.arsc.flat 
+   -- values-v21_values-v21.arsc.flat 
+   -- values-v22_values-v22.arsc.flat 
+   -- values-v23_values-v23.arsc.flat 
+   -- values-v24_values-v24.arsc.flat 
+   -- values-v25_values-v25.arsc.flat 
+   -- values-v26_values-v26.arsc.flat 
+   -- values-v28_values-v28.arsc.flat 
+   -- values-v31_values-v31.arsc.flat 
+   -- values-v34_values-v34.arsc.flat 
+   -- values-vi_values-vi.arsc.flat 
+   -- values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat 
+   -- values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat 
+   -- values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat 
+   -- values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat 
+   -- values-watch-v20_values-watch-v20.arsc.flat 
+   -- values-watch-v21_values-watch-v21.arsc.flat 
+   -- values-xlarge-v4_values-xlarge-v4.arsc.flat 
+   -- values-zh-rCN_values-zh-rCN.arsc.flat 
+   -- values-zh-rHK_values-zh-rHK.arsc.flat 
+   -- values-zh-rTW_values-zh-rTW.arsc.flat 
+   -- values-zu_values-zu.arsc.flat 
+   -- values_values.arsc.flat 
+   -- xml_backup_rules.xml.flat 
+   -- xml_data_extraction_rules.xml.flat 
+   -- xml_network_security_config.xml.flat 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources 
+   -- values-v18_values-v18.arsc.flat 
+   -- values-v21_values-v21.arsc.flat 
+   -- values-v28_values-v28.arsc.flat 
+   -- values_values.arsc.flat 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out\multi-v2 
+   -- mergeDebugResources.json 
+   -- values-af.json 
+   -- values-am.json 
+   -- values-ar.json 
+   -- values-as.json 
+   -- values-az.json 
+   -- values-b+es+419.json 
+   -- values-b+sr+Latn.json 
+   -- values-be.json 
+   -- values-bg.json 
+   -- values-bn.json 
+   -- values-bs.json 
+   -- values-ca.json 
+   -- values-cs.json 
+   -- values-da.json 
+   -- values-de.json 
+   -- values-el.json 
+   -- values-en-rAU.json 
+   -- values-en-rCA.json 
+   -- values-en-rGB.json 
+   -- values-en-rIN.json 
+   -- values-en-rXC.json 
+   -- values-es-rUS.json 
+   -- values-es.json 
+   -- values-et.json 
+   -- values-eu.json 
+   -- values-fa.json 
+   -- values-fi.json 
+   -- values-fr-rCA.json 
+   -- values-fr.json 
+   -- values-gl.json 
+   -- values-gu.json 
+   -- values-h320dp-port-v13.json 
+   -- values-h360dp-land-v13.json 
+   -- values-h480dp-land-v13.json 
+   -- values-h550dp-port-v13.json 
+   -- values-h720dp-v13.json 
+   -- values-hdpi-v4.json 
+   -- values-hi.json 
+   -- values-hr.json 
+   -- values-hu.json 
+   -- values-hy.json 
+   -- values-in.json 
+   -- values-is.json 
+   -- values-it.json 
+   -- values-iw.json 
+   -- values-ja.json 
+   -- values-ka.json 
+   -- values-kk.json 
+   -- values-km.json 
+   -- values-kn.json 
+   -- values-ko.json 
+   -- values-ky.json 
+   -- values-land.json 
+   -- values-large-v4.json 
+   -- values-ldltr-v21.json 
+   -- values-ldrtl-v17.json 
+   -- values-lo.json 
+   -- values-lt.json 
+   -- values-lv.json 
+   -- values-mk.json 
+   -- values-ml.json 
+   -- values-mn.json 
+   -- values-mr.json 
+   -- values-ms.json 
+   -- values-my.json 
+   -- values-nb.json 
+   -- values-ne.json 
+   -- values-night-v8.json 
+   -- values-nl.json 
+   -- values-or.json 
+   -- values-pa.json 
+   -- values-pl.json 
+   -- values-port.json 
+   -- values-pt-rBR.json 
+   -- values-pt-rPT.json 
+   -- values-pt.json 
+   -- values-ro.json 
+   -- values-ru.json 
+   -- values-si.json 
+   -- values-sk.json 
+   -- values-sl.json 
+   -- values-small-v4.json 
+   -- values-sq.json 
+   -- values-sr.json 
+   -- values-sv.json 
+   -- values-sw.json 
+   -- values-sw600dp-v13.json 
+   -- values-ta.json 
+   -- values-te.json 
+   -- values-th.json 
+   -- values-tl.json 
+   -- values-tr.json 
+   -- values-uk.json 
+   -- values-ur.json 
+   -- values-uz.json 
+   -- values-v16.json 
+   -- values-v17.json 
+   -- values-v18.json 
+   -- values-v21.json 
+   -- values-v22.json 
+   -- values-v23.json 
+   -- values-v24.json 
+   -- values-v25.json 
+   -- values-v26.json 
+   -- values-v28.json 
+   -- values-v31.json 
+   -- values-v34.json 
+   -- values-vi.json 
+   -- values-w320dp-land-v13.json 
+   -- values-w360dp-port-v13.json 
+   -- values-w400dp-port-v13.json 
+   -- values-w600dp-land-v13.json 
+   -- values-watch-v20.json 
+   -- values-watch-v21.json 
+   -- values-xlarge-v4.json 
+   -- values-zh-rCN.json 
+   -- values-zh-rHK.json 
+   -- values-zh-rTW.json 
+   -- values-zu.json 
+   -- values.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out\single 
+   -- mergeDebugResources.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debugAndroidTest\mergeDebugAndroidTestResources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debugAndroidTest\mergeDebugAndroidTestResources\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_res_blame_folder\debugAndroidTest\mergeDebugAndroidTestResources\out\multi-v2 
+   -- mergeDebugAndroidTestResources.json 
+   -- values-v18.json 
+   -- values-v21.json 
+   -- values-v28.json 
+   -- values.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders\debug\mergeDebugShaders 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders\debug\mergeDebugShaders\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders\debugAndroidTest\mergeDebugAndroidTestShaders 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\merged_shaders\debugAndroidTest\mergeDebugAndroidTestShaders\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive\debug\dexBuilderDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive\debug\dexBuilderDebug\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\mixed_scope_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\navigation_json\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\navigation_json\debug\extractDeepLinksDebug 
+   -- navigation.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\nested_resources_validation_report\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\nested_resources_validation_report\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\nested_resources_validation_report\debug\generateDebugResources 
+   -- nestedResourcesValidationReport.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\nested_resources_validation_report\debugAndroidTest\generateDebugAndroidTestResources 
+   -- nestedResourcesValidationReport.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_manifests\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_manifests\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_manifests\debug\processDebugManifestForPackage 
+   -- AndroidManifest.xml 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_manifests\debugAndroidTest\processDebugAndroidTestManifest 
+   -- AndroidManifest.xml 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\drawable 
+   -- bg_input_dark.xml 
+   -- ic_ftp.xml 
+   -- ic_launcher_background.xml 
+   -- ic_launcher_foreground.xml 
+   -- ic_ps3_game_placeholder.xml 
+   -- led_green.xml 
+   -- led_red.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\layout 
+   -- activity_ftp.xml 
+   -- activity_main.xml 
+   -- activity_pkg_extract.xml 
+   -- activity_store_list.xml 
+   -- activity_store_viewer.xml 
+   -- dialog_ftp_credentials.xml 
+   -- dialog_transfer_progress.xml 
+   -- item_download_task.xml 
+   -- item_ftp_file.xml 
+   -- item_store_entry.xml 
+   -- item_store_game.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\menu 
+   -- main_menu.xml 
+   -- store_viewer_menu.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-anydpi-v26 
+   -- ic_launcher.xml 
+   -- ic_launcher_round.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-hdpi-v4 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-mdpi-v4 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xhdpi-v4 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xxhdpi-v4 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xxxhdpi-v4 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\values 
+   -- values.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\values-night-v8 
+   -- values-night-v8.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\values-v28 
+   -- values-v28.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\packaged_res\debug\packageDebugResources\xml 
+   -- backup_rules.xml 
+   -- data_extraction_rules.xml 
+   -- network_security_config.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out 
+   -- fe48c45cc2e0de9f09d574ff766df919fbe2bc9a7695c8d03641df2815c93e2c_0.jar 
+   -- fe48c45cc2e0de9f09d574ff766df919fbe2bc9a7695c8d03641df2815c93e2c_1.jar 
+   -- fe48c45cc2e0de9f09d574ff766df919fbe2bc9a7695c8d03641df2815c93e2c_2.jar 
+   -- fe48c45cc2e0de9f09d574ff766df919fbe2bc9a7695c8d03641df2815c93e2c_3.jar 
+   -- fe48c45cc2e0de9f09d574ff766df919fbe2bc9a7695c8d03641df2815c93e2c_4.jar 
+   -- fe48c45cc2e0de9f09d574ff766df919fbe2bc9a7695c8d03641df2815c93e2c_5.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\kizeo 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\kizeo\kzstorereader 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\kizeo\kzstorereader\activities 
+   -- CancelTransferReceiver.dex 
+   -- FtpActivity$FileAdapter$ViewHolder.dex 
+   -- FtpActivity$FileAdapter.dex 
+   -- FtpActivity$TransferTask.dex 
+   -- FtpActivity.dex 
+   -- MainActivity.dex 
+   -- PkgExtractActivity$1.dex 
+   -- PkgExtractActivity.dex 
+   -- StoreListActivity$StoresAdapter$VH.dex 
+   -- StoreListActivity$StoresAdapter.dex 
+   -- StoreListActivity.dex 
+   -- StoreViewerActivity$1.dex 
+   -- StoreViewerActivity$NavEntry.dex 
+   -- StoreViewerActivity$OnItemClick.dex 
+   -- StoreViewerActivity$OnItemLongClick.dex 
+   -- StoreViewerActivity$StoreItemAdapter$VH.dex 
+   -- StoreViewerActivity$StoreItemAdapter.dex 
+   -- StoreViewerActivity.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\kizeo\kzstorereader\utils 
+   -- DownloadManager$1.dex 
+   -- DownloadManager.dex 
+   -- DownloadService$Callback.dex 
+   -- DownloadService$CallbackAction.dex 
+   -- DownloadService.dex 
+   -- FtpService$1.dex 
+   -- FtpService$2.dex 
+   -- FtpService$Callback.dex 
+   -- FtpService$CallbackAction.dex 
+   -- FtpService.dex 
+   -- PkgExtractor$ExtractResult.dex 
+   -- PkgExtractor$PkgEntry.dex 
+   -- PkgExtractor$ProgressCallback.dex 
+   -- PkgExtractor.dex 
+   -- StoreScanner$StoreEntry.dex 
+   -- StoreScanner.dex 
+   -- StoreXmlParser$ParseResult.dex 
+   -- StoreXmlParser$StoreItem.dex 
+   -- StoreXmlParser$XmlFormat.dex 
+   -- StoreXmlParser.dex 
+   -- UrlResolver.dex 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\project_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest\out 
+   -- 2a7acadda593866068d68ad2cc5c175fbb6643d30ad369a72fa662d24c5a7750_0.jar 
+   -- 2a7acadda593866068d68ad2cc5c175fbb6643d30ad369a72fa662d24c5a7750_1.jar 
+   -- 2a7acadda593866068d68ad2cc5c175fbb6643d30ad369a72fa662d24c5a7750_2.jar 
+   -- 2a7acadda593866068d68ad2cc5c175fbb6643d30ad369a72fa662d24c5a7750_3.jar 
+   -- 2a7acadda593866068d68ad2cc5c175fbb6643d30ad369a72fa662d24c5a7750_5.jar 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\runtime_symbol_list\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\runtime_symbol_list\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\runtime_symbol_list\debug\processDebugResources 
+   -- R.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\runtime_symbol_list\debugAndroidTest\processDebugAndroidTestResources 
+   -- R.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\signing_config_versions\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\signing_config_versions\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\signing_config_versions\debug\writeDebugSigningConfigVersions 
+   -- signing-config-versions.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\signing_config_versions\debugAndroidTest\writeDebugAndroidTestSigningConfigVersions 
+   -- signing-config-versions.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\source_set_path_map\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\source_set_path_map\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\source_set_path_map\debug\mapDebugSourceSetPaths 
+   -- file-map.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\source_set_path_map\debugAndroidTest\mapDebugAndroidTestSourceSetPaths 
+   -- file-map.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\stable_resource_ids_file\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\stable_resource_ids_file\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\stable_resource_ids_file\debug\processDebugResources 
+   -- stableIds.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\stable_resource_ids_file\debugAndroidTest\processDebugAndroidTestResources 
+   -- stableIds.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive\debug\dexBuilderDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive\debug\dexBuilderDebug\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\sub_project_dex_archive\debugAndroidTest\dexBuilderDebugAndroidTest\out 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\symbol_list_with_package_name\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\symbol_list_with_package_name\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\symbol_list_with_package_name\debug\processDebugResources 
+   -- package-aware-r.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\symbol_list_with_package_name\debugAndroidTest\processDebugAndroidTestResources 
+   -- package-aware-r.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\tmp\manifest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\tmp\manifest\androidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\tmp\manifest\androidTest\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\validate_signing_config\debug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\validate_signing_config\debugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\validate_signing_config\debug\validateSigningDebug 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\intermediates\validate_signing_config\debugAndroidTest\validateSigningDebugAndroidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\outputs\apk 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\outputs\logs 
+   -- manifest-merger-debug-report.txt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\outputs\apk\androidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\outputs\apk\debug 
+   -- app-debug.apk 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\outputs\apk\androidTest\debug 
+   -- app-debug-androidTest.apk 
+   -- output-metadata.json 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\tmp\compileDebugJavaWithJavac 
+   -- previous-compilation-data.bin 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\tmp\compileDebugJavaWithJavac\compileTransaction 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\tmp\compileDebugJavaWithJavac\compileTransaction\backup-dir 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\build\tmp\compileDebugJavaWithJavac\compileTransaction\stash-dir 
+   -- CancelTransferReceiver.class.uniqueId7 
+   -- FtpActivity$FileAdapter$ViewHolder.class.uniqueId8 
+   -- FtpActivity$FileAdapter.class.uniqueId10 
+   -- FtpActivity$TransferTask.class.uniqueId5 
+   -- FtpActivity.class.uniqueId6 
+   -- MainActivity.class.uniqueId11 
+   -- StoreViewerActivity$1.class.uniqueId2 
+   -- StoreViewerActivity$NavEntry.class.uniqueId3 
+   -- StoreViewerActivity$OnItemClick.class.uniqueId12 
+   -- StoreViewerActivity$OnItemLongClick.class.uniqueId0 
+   -- StoreViewerActivity$StoreItemAdapter$VH.class.uniqueId9 
+   -- StoreViewerActivity$StoreItemAdapter.class.uniqueId1 
+   -- StoreViewerActivity.class.uniqueId4 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\androidTest 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main 
+   -- AndroidManifest.xml 
+   -- ic_launcher-playstore.png 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\test 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\androidTest\java 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\androidTest\java\com 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\androidTest\java\com\kizeo 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\androidTest\java\com\kizeo\kzstorereader 
+   -- ExampleInstrumentedTest.kt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\assets 
+   -- mainlogo.png 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\java 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\{java 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\java\com 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\java\com\kizeo 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\java\com\kizeo\kzstorereader 
+   -- MainActivity.kt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\java\com\kizeo\kzstorereader\activities 
+   -- CancelTransferReceiver.java 
+   -- FtpActivity.java 
+   -- MainActivity.java 
+   -- PkgExtractActivity.java 
+   -- StoreListActivity.java 
+   -- StoreViewerActivity.java 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\java\com\kizeo\kzstorereader\utils 
+   -- DownloadManager.java 
+   -- DownloadService.java 
+   -- FtpService.java 
+   -- PkgExtractor.java 
+   -- StoreScanner.java 
+   -- StoreXmlParser.java 
+   -- UrlResolver.java 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\drawable 
+   -- bg_input_dark.xml 
+   -- ic_ftp.xml 
+   -- ic_launcher_background.xml 
+   -- ic_launcher_foreground.xml 
+   -- ic_ps3_game_placeholder.xml 
+   -- led_green.xml 
+   -- led_red.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\layout 
+   -- activity_ftp.xml 
+   -- activity_main.xml 
+   -- activity_pkg_extract.xml 
+   -- activity_store_list.xml 
+   -- activity_store_viewer.xml 
+   -- dialog_ftp_credentials.xml 
+   -- dialog_transfer_progress.xml 
+   -- item_download_task.xml 
+   -- item_ftp_file.xml 
+   -- item_store_entry.xml 
+   -- item_store_game.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\menu 
+   -- main_menu.xml 
+   -- store_viewer_menu.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\mipmap-anydpi-v26 
+   -- ic_launcher.xml 
+   -- ic_launcher_round.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\mipmap-hdpi 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\mipmap-mdpi 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\mipmap-xhdpi 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\mipmap-xxhdpi 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\mipmap-xxxhdpi 
+   -- ic_launcher.webp 
+   -- ic_launcher_foreground.webp 
+   -- ic_launcher_round.webp 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\values 
+   -- colors.xml 
+   -- dimens.xml 
+   -- strings.xml 
+   -- themes.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\values-night 
+   -- themes.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\values-v28 
+   -- themes.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\res\xml 
+   -- backup_rules.xml 
+   -- data_extraction_rules.xml 
+   -- network_security_config.xml 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\{java\com 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\{java\com\kizeo 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\{java\com\kizeo\kzstorereader 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\{java\com\kizeo\kzstorereader\{activities,adapters,model,utils,ftp},res 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\main\{java\com\kizeo\kzstorereader\{activities,adapters,model,utils,ftp},res\{layout,drawable,values,menu,xml}} 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\test\java 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\test\java\com 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\test\java\com\kizeo 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\app\src\test\java\com\kizeo\kzstorereader 
+   -- ExampleUnitTest.kt 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\build\reports 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\build\reports\problems 
+   -- problems-report.html 
+ 
+[CARPETA] C:\Users\LXCXS\AndroidStudioProjects\KZStoreReader\gradle\wrapper 
+   -- gradle-wrapper.jar 
+   -- gradle-wrapper.properties 
+ 

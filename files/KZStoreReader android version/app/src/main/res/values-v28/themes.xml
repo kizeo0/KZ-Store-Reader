@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- API 28+ adds windowLayoutInDisplayCutoutMode for proper notch support -->
+    <style name="Theme.KZStoreReader" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ps3_accent_blue</item>
+        <item name="colorPrimaryVariant">@color/ps3_surface</item>
+        <item name="colorOnPrimary">@color/ps3_text_primary</item>
+        <item name="colorSecondary">@color/ps3_accent_green</item>
+        <item name="colorOnSecondary">@color/ps3_bg</item>
+        <item name="android:colorBackground">@color/ps3_bg</item>
+        <item name="android:windowBackground">@color/ps3_bg</item>
+        <item name="android:statusBarColor">@color/ps3_surface</item>
+        <item name="android:navigationBarColor">@color/ps3_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <!-- Extends content into the notch area (shortEdges = safe for most apps) -->
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:textColor">@color/ps3_text_primary</item>
+        <item name="toolbarStyle">@style/KZToolbarStyle</item>
+    </style>
+
+    <style name="KZToolbarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/ps3_surface</item>
+        <item name="titleTextColor">@color/ps3_text_primary</item>
+        <item name="subtitleTextColor">@color/ps3_text_secondary</item>
+    </style>
+
+</resources>
