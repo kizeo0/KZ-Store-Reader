@@ -13,27 +13,27 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 
 ---
 
-## ✨ Características
+##  Características
 
 ### Versión PC
-- 📦 **Extracción de PKGs** – Desempaqueta cualquier PKG de tienda PS3 y extrae su estructura XML y recursos.
-- 🏪 **Visor de tiendas** – Carga el XML principal de una tienda y muestra todos sus juegos/ítems con iconos, IDs e información.
-- 🌐 **Bypass de enlaces protegidos** – Resuelve automáticamente enlaces de Mediafire y páginas que requieren User-Agent de PS3.
-- 📡 **Cliente FTP integrado** – Conéctate a tu PS3 (webMAN / MultiMAN) para subir/descargar archivos, con arrastrar y soltar.
-- 🧠 **Soporte multidioma** – Español e inglés, con selector en el inicio y persistencia en preferencias.
-- 📁 **Carpeta `data` portátil** – Se crea siempre junto al ejecutable; todas las tiendas extraídas van ahí.
-- 🔍 **Reconocimiento de ID de juego** – Detecta automáticamente el código del juego (BLES, NPUB, etc.) en la descripción.
+-  **Extracción de PKGs** – Desempaqueta cualquier PKG de tienda PS3 y extrae su estructura XML y recursos.
+-  **Visor de tiendas** – Carga el XML principal de una tienda y muestra todos sus juegos/ítems con iconos, IDs e información.
+-  **Bypass de enlaces protegidos** – Resuelve automáticamente enlaces de Mediafire y páginas que requieren User-Agent de PS3.
+-  **Cliente FTP integrado** – Conéctate a tu PS3 (webMAN / MultiMAN) para subir/descargar archivos, con arrastrar y soltar.
+-  **Soporte multidioma** – Español e inglés, con selector en el inicio y persistencia en preferencias.
+-  **Carpeta `data` portátil** – Se crea siempre junto al ejecutable; todas las tiendas extraídas van ahí.
+-  **Reconocimiento de ID de juego** – Detecta automáticamente el código del juego (BLES, NPUB, etc.) en la descripción.
 
 ### Versión Android
-- 📱 **Totalmente funcional en móviles y tablets** – Interfaz adaptada a pantallas táctiles, con menús deslizables y selección múltiple.
-- 📂 **Extrae PKGs directamente en el almacenamiento interno** – Los archivos extraídos se guardan en `Android/data/com.kizeo.kzstorereader/files/data/`.
-- 🏪 **Navega por tus tiendas** – Lista todas las tiendas extraídas, entra en sus categorías y visualiza juegos con iconos, descripciones y enlaces de descarga.
-- ⬇️ **Descarga de juegos integrada** – Resuelve enlaces protegidos (Mediafire, etc.) y descarga PKGs con barra de progreso, notificaciones y cola de descargas (pausa/reanuda/cancela).
-- 📡 **Cliente FTP completo** – Conéctate a tu PS3 (webMAN / MultiMAN) para explorar archivos, subir, descargar, renombrar, crear carpetas y borrar elementos. Soporta selección múltiple y transferencias en segundo plano con notificaciones.
-- 🌐 **Base de datos PSN** – Acceso directo a la PSN Database de Luan Teles desde el menú.
-- 🔄 **Actualizaciones automáticas** – Comprueba si hay nuevas versiones en GitHub y te redirige para descargarlas.
-- 🌍 **Multidioma** – Español e inglés, con cambio dinámico sin reiniciar la app.
-- 🎨 **Diseño oscuro** – Interfaz limpia 
+-  **Totalmente funcional en móviles y tablets** – Interfaz adaptada a pantallas táctiles, con menús deslizables y selección múltiple.
+-  **Extrae PKGs directamente en el almacenamiento interno** – Los archivos extraídos se guardan en `Android/data/com.kizeo.kzstorereader/files/data/`.
+-  **Navega por tus tiendas** – Lista todas las tiendas extraídas, entra en sus categorías y visualiza juegos con iconos, descripciones y enlaces de descarga.
+-  **Descarga de juegos integrada** – Resuelve enlaces protegidos (Mediafire, etc.) y descarga PKGs con barra de progreso, notificaciones y cola de descargas (pausa/reanuda/cancela).
+-  **Cliente FTP completo** – Conéctate a tu PS3 (webMAN / MultiMAN) para explorar archivos, subir, descargar, renombrar, crear carpetas y borrar elementos. Soporta selección múltiple y transferencias en segundo plano con notificaciones.
+-  **Base de datos PSN** – Acceso directo a la PSN Database de Luan Teles desde el menú.
+-  **Actualizaciones automáticas** – Comprueba si hay nuevas versiones en GitHub y te redirige para descargarlas.
+-  **Multidioma** – Español e inglés, con cambio dinámico sin reiniciar la app.
+-  **Diseño oscuro** – Interfaz limpia 
 
 <p align="center">
 <img width="720" height="480" alt="image" src="https://github.com/user-attachments/assets/8921d32b-2360-4eca-bcab-43cfe88fa561" />
@@ -51,7 +51,7 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 
 ---
 
-> ⚠️ **Windows SmartScreen** puede mostrar una advertencia porque el programa no está firmado. Haz clic en "Más información" y luego "Ejecutar de todas formas".
+>  **Windows SmartScreen** puede mostrar una advertencia porque el programa no está firmado. Haz clic en "Más información" y luego "Ejecutar de todas formas".
 
 ---
 
@@ -129,7 +129,7 @@ Lee y navega por las tiendas digitales hechas por la comunidad de PlayStation 3 
 
 ---
 
-## 🧪 Requisitos del sistema
+##  Requisitos del sistema
 
 - **Windows 7 / 8 / 10 / 11**
 - **Android 6.0 (API 23) o superior**
